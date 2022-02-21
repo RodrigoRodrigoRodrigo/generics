@@ -72,3 +72,7 @@ public class PrintService<T> {
 		System.out.println("]");
 	}
 }
+							  
+[13-generics-set-map.pdf](https://github.com/yarisb/generics/files/8111340/13-generics-set-map.pdf)
+							  
+![1](https://user-images.githubusercontent.com/61166475/155007183-0ae352ae-61f1-4513-8e35-910d9492293b.png)
