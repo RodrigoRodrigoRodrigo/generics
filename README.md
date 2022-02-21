@@ -117,3 +117,6 @@ public class CalculationService {
 	}
 }
 
+[13-generics-set-map.pdf](https://github.com/yarisb/generics/files/8111353/13-generics-set-map.pdf)
+	
+![1](https://user-images.githubusercontent.com/61166475/155007335-bf35430f-8690-4af4-bbc9-7dd6b26d41be.png)
